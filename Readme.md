@@ -7,6 +7,9 @@ Learning Event Rewards is a blockchain-based rewards system that incentivizes pa
 
 ## Contract Address
 0x42f8f3053815132871ae8a9d5df14dade10864f8
+![image](https://github.com/user-attachments/assets/d345a16b-e980-4840-bd01-9fc89f30f02d)
+
+
 
 ## Project Vision
 To create a decentralized platform that encourages continuous learning and engagement by rewarding participants for their efforts. The project aims to promote educational initiatives by leveraging blockchain technology to provide fair and transparent reward mechanisms.
